@@ -16,8 +16,8 @@
 <ul><i>
   <li> Yaram ram kiran </li>
   <li> Azhagiri </li>
-  <li> abinash </li>
-  <li> frank ragesh </li>
+  <li> Abinash </li>
+  <li> Frank ragesh </li>
   </i>
   </ul>
 <br>
